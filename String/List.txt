@@ -1,0 +1,37 @@
+001 :
+    Change string to a new character set :
+        Given a 26 letter character set, which is equivalent to character set of English alphabet 
+        i.e. (abcd….xyz) and act as a relation. We are also given several sentences and we have to 
+        translate them with the help of given new character set.
+
+        https://www.geeksforgeeks.org/change-string-to-a-new-character-set/
+002 :
+    Sorting array of strings (or words) using Trie :
+        Given an array of strings, print them in alphabetical (dictionary) order. If there are 
+        duplicates in input array, we need to print them only once.
+
+        https://www.geeksforgeeks.org/sorting-array-strings-words-using-trie/
+003 :
+    Left Rotation and Right Rotation of a String
+        Given a string of size n, write functions to perform the following operations on a string-
+        :: Left (Or anticlockwise) rotate the given string by d elements (where d <= n)
+        :: Right (Or clockwise) rotate the given string by d elements (where d <= n).
+
+        https://www.geeksforgeeks.org/left-rotation-right-rotation-string-2
+004 :
+    Minimum rotations required to get the same string
+        Given a string, we need to find the minimum number of rotations required to get the same string.
+
+        https://www.geeksforgeeks.org/minimum-rotations-required-get-string
+005 :
+    Check if given strings are rotations of each other or not
+        Given a string s1 and a string s2, write a function to check whether s2 is a rotation of s1. 
+
+        https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+006 :
+    Perfect reversible string
+        You are given a string ‘str’, the task is to check that reverses of all possible 
+        substrings of ‘str’ are present in ‘str’ or not. 
+
+        https://www.geeksforgeeks.org/perfect-reversible-string
+
